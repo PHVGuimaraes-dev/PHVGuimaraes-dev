@@ -1,10 +1,11 @@
-## Pedro Guimarães
+## Pedro Henrique do Vale Guimarães
 
 ---
-
-- Bolsista PIBIC por 3 anos na faculdade de Engenharia da Computação - UFPA
+- Bolsista PIBIC por 3 anos durante o curso de Engenharia da Computação - FACOMP / UFPA
+- Mestrando em Eng. Elétrica no PPGEE / UFPA
 - Foco em Ciência de Dados com Geoprocessamento voltado para o Sensoriamento Remoto
 - Membro do Laboratório de Pesquisas Operacionais (LPO) e Laboratório de Antropização (L'ANTRO)
+- Memmbro do Grupo de Pesquisa IBAMA (Interação Biosfera-Atmosfera e Micrometeorologia na Amazônia)
 - Utilizo da Linguagem Python para utilizar APIs nos projetos como do Google Earth Engine, Brazil Data Cube, entre outros 
 
 <!--
