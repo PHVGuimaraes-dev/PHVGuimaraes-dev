@@ -1,24 +1,20 @@
 ## Pedro Henrique do Vale Guimarães
 
----
-- Bolsista PIBIC por 3 anos durante o curso de Engenharia da Computação - FACOMP / UFPA
-- Mestrando em Eng. Elétrica no PPGEE / UFPA
-- Foco em Ciência de Dados com Geoprocessamento voltado para o Sensoriamento Remoto
-- Membro do Laboratório de Pesquisas Operacionais (LPO) e Laboratório de Antropização (L'ANTRO)
+[PT-BR]
+- Bolsista de Iniciação Científica por 3 anos durante o curso de Engenharia da Computação na FACOMP (UFPA)
+- Mestrando em Eng. Elétrica com ênfase em Computação Aplicada, no PPGEE / UFPA
+- Foco em Ciência de Dados e IA com Geoprocessamento para aplicações em Sensoriamento Remoto
+- Membro do Laboratório de Sistemas Interativos Inteligentes (LIIS) e Laboratório de Antropização (L'ANTRO)
 - Memmbro do Grupo de Pesquisa IBAMA (Interação Biosfera-Atmosfera e Micrometeorologia na Amazônia)
-- Utilizo da Linguagem Python para utilizar APIs nos projetos como do Google Earth Engine, Brazil Data Cube, entre outros 
+
+[EN]
+- 3 years of Scholarship in Scientific Initiation, during graduation in Computer Engineering at FACOMP (UFPA)
+- Master's Student in Eletrical Engineering with empahsis on Applied Computing, in PPGEE (UFPA)
+- Focus on Data Science and AI with Geoprocessing for Remote Sensing applications
+- Member of the Laboratory of Intelligent Interactive Systems (LIIS - UFPA) and the Laboratory of Anthropization (L'ANTRO - UFPA)
+- Member of the Research Group "Biosphere-Atmosphere Interaction and Micrometeorology in the Amazon" (IBAMA - UFOPA)
+
 
 <!--
 **PHVGuimaraes-dev/PHVGuimaraes-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
